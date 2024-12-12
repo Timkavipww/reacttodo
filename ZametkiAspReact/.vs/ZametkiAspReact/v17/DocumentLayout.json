@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\noteswebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\noteswebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|c:\\users\\easyt\\source\\repos\\zametkiaspreact\\noteswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DBA857F-716D-456F-833B-5C3F3F874C56}|NotesWEBAPP\\NotesWEBAPP.csproj|solutionrelative:noteswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Contracts\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\Contracts\\CreateNoteRequest.cs",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Contracts\\CreateNoteRequest.cs",
+              "RelativeToolTip": "NotesWEBAPP\\Contracts\\CreateNoteRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:43:53.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Models\\Note.cs",
+              "RelativeToolTip": "NotesWEBAPP\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:45:59.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\DataAccess\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\DataAccess\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\DataAccess\\NotesDbContext.cs",
+              "RelativeToolTip": "NotesWEBAPP\\DataAccess\\NotesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:45:33.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NotesWEBAPP\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:47:39.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Contracts\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\Contracts\\GetNotesRequest.cs",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Contracts\\GetNotesRequest.cs",
+              "RelativeToolTip": "NotesWEBAPP\\Contracts\\GetNotesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:44:13.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Contracts\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\Contracts\\GetNotesResponse.cs",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Contracts\\GetNotesResponse.cs",
+              "RelativeToolTip": "NotesWEBAPP\\Contracts\\GetNotesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:46:22.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Contracts\\NoteDTO.cs",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\Contracts\\NoteDTO.cs",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Contracts\\NoteDTO.cs",
+              "RelativeToolTip": "NotesWEBAPP\\Contracts\\NoteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:46:33.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Program.cs",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Program.cs",
+              "RelativeToolTip": "NotesWEBAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:44:50.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesWEBAPP.csproj",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\NotesWEBAPP.csproj",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\NotesWEBAPP.csproj",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\NotesWEBAPP.csproj",
+              "RelativeToolTip": "NotesWEBAPP\\NotesWEBAPP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T09:45:05.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NotesWEBAPP\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T05:34:37.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\appsettings.json",
+              "RelativeDocumentMoniker": "NotesWEBAPP\\appsettings.json",
+              "ToolTip": "C:\\Users\\easyt\\source\\repos\\ZametkiAspReact\\NotesWEBAPP\\appsettings.json",
+              "RelativeToolTip": "NotesWEBAPP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T09:46:59.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
